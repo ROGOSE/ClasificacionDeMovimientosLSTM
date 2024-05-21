@@ -1,6 +1,7 @@
 # Técnicas de Aprendizaje Profundo para reconocimiento de acciones de movimiento mediante los sensores de aceleración de un dispositivo móvil.
 Repositorio del Trabajo de Fin de Grado de Ingeniería Infórmatica UCM 2023/2024. Rodrigo Gómez Serrano y Miguel Manzano Rodriguez.
-A continuación se muestra un resumen del trabajo y se explica los archivos código 
+
+A continuación se muestra un resumen del trabajo y se explica cómo ejecutar el código aportado.
 
 # Resumen
 Clasificar acciones de movimiento mediante Aprendizaje Profundo es un problema desafiante y en constante desarrollo, y es un tema de investigación en diversos
