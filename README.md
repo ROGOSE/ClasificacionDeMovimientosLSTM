@@ -1,6 +1,7 @@
 # Técnicas de Aprendizaje Profundo para reconocimiento de acciones de movimiento mediante los sensores de aceleración de un dispositivo móvil.
 Trabajo de Fin de Grado de Ingeniería Infórmatica 2023/2024. Rodrigo Gómez Serrano y Miguel Manzano Rodriguez.
 
+# Resumen
 Clasificar acciones de movimiento mediante Aprendizaje Profundo es un problema desafiante y en constante desarrollo, y es un tema de investigación en diversos
 campos como deportes y rehabilitación. En este trabajo, se presenta un tipo de redes neuronales, las LSTM (Long Short Term Memory), y se muestra una visión general
 de su aplicación a la hora de reconocer acciones de movimiento capturados mediante los sensores de aceleración de un dispositivo móvil. Con esto en mente, se emplea
@@ -11,4 +12,7 @@ MATLAB Mobile. También se comparan varios resultados del entrenamiento de redes
 Por útlimo, se plantea un enfoque global acerca de la comunicación entre un dispositivo móvil, encargado de registrar acciones de movimiento, y una aplicación en la
 "nube", responsable de almacenar, procesar e incluso interpretar estas acciones de manera remota. Para ello se emplea una plataforma de Internet de las cosas llamada
 ThingSpeak que esta integrada con MATLAB.
+
+# Código
+
 
