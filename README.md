@@ -18,7 +18,8 @@ ThingSpeak que esta integrada con MATLAB.
 # Código 
 Se proporciona a los lectores una guía para ejecutar las distintas aplicaciones del trabajo correctamente.
 
-**Material necesario** \\
+**Material necesario** 
+
 En primer lugar, debe contar con un dispositivo inteligente Smartphone y un PC (Computador Personal).
 Además, es necesario instalar en el ordenador los programas MATLAB (disponible en ssii.ucm.es), válido tanto en PC como On-Line y MATLAB Drive Connector
 (disponible en es.mathworks.com). Esto último proporciona acceso a MATLAB Drive, que lleva a cabo la comunicación entre la aplicación y el programa principal de
@@ -27,6 +28,7 @@ También debe instalar en el dispositivo móvil la aplicación MATLAB Mobile.
 Para la nube, debe tener acceso a ThingSpeak (thingspeak.com).
 
 **Aplicación estática**
+
 Para ejecutar esta aplicación hay que abrir MATLAB en el ordenador y abrir App Designer. Para ello la opción más sencilla es escribir appdesigner en la línea de
 comandos (aunque también se puede acceder desde Apps, pestaña que se ubica en la parte superior.
 Una vez el usuario se encuentra en App Designer, hay que abrir los archivos _pantallaInicio.mlapp_, _pantallaTest.mlapp_, _pantallaTrain.mlapp_, _pantallaResultados.mlapp_
@@ -39,6 +41,7 @@ En la sección 3.2 se desarrolla paso a paso y se explica con detalle la funcion
 Es importante mencionar que entre que se abre una pestaña y la siguiente pueden discurrir unos segundos.
 
 **Aplicación dinámica**
+
 Para ejecutar este programa son necesarios al menos los siguientes toolboxes: _Image Processing_, _Computer Vision_ y _Deep Learning_. 
 Si se requiere de algún toolbox más, ya lo pide el propio MATLAB y lo instala, siempre con la cuenta institucional.
 Se requiere la cuenta institucional de la UCM.
@@ -61,6 +64,7 @@ la red que se quiera utilizar. En concreto hay que cambiar la cadena ’RedLSTM�
 Una vez ejecutado el código, se muestra por la pantalla del dispositivo el resultado, es decir, aparece la clasificación correspondiente a cada una de las acciones.
 
 **Aplicación en la nube**
+
 Para ejecutar este programa son necesarios al menos los siguientes toolboxes: _Image Processing_, _Computer Vision_ y _Deep Learning_. 
 Si se requiere de algún toolbox más, ya lo pide el propio MATLAB y lo instala, siempre con la cuenta institucional.
 Se requiere la cuenta institucional de la UCM. 
