@@ -84,8 +84,8 @@ del trabajo.
 En esta misma carpeta hay que copiar el fichero _extensionIoT.m_, que contiene el código a ejecutar y en el cuál hay que modificar las dos siguientes líneas según la
 red que se quiera utilizar. En concreto hay que cambiar la cadena ’RedLSTM’ y el archivo que se carga mediante _load_.
 
-          if not(exist(’RedLSTM’,’var’))
-              load RedLSTM;
+      if not(exist(’RedLSTM’,’var’))
+            load RedLSTM;
               
 Según se ejecuta el código, se muestra por la pantalla del dispositivo varias indicaciones de lo que está ocurriendo y, por último, el resultado, es decir, aparece
 la clasificación correspondiente a cada una de las acciones.
