@@ -15,7 +15,7 @@ Por útlimo, se plantea un enfoque global acerca de la comunicación entre un di
 "nube", responsable de almacenar, procesar e incluso interpretar estas acciones de manera remota. Para ello se emplea una plataforma de Internet de las cosas llamada
 ThingSpeak que esta integrada con MATLAB.
 
-# Código 
+# Manual de usuario 
 Se proporciona a los lectores una guía para ejecutar las distintas aplicaciones del trabajo correctamente.
 
 **Material necesario:** 
