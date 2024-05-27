@@ -15,10 +15,10 @@ Por útlimo, se plantea un enfoque global acerca de la comunicación entre un di
 "nube", responsable de almacenar, procesar e incluso interpretar estas acciones de manera remota. Para ello se emplea una plataforma de Internet de las cosas llamada
 ThingSpeak que esta integrada con MATLAB.
 
-# Código
+# Código 
 Se proporciona a los lectores una guía para ejecutar las distintas aplicaciones del trabajo correctamente.
 
-**Material necesario**
+**Material necesario** \\
 En primer lugar, debe contar con un dispositivo inteligente Smartphone y un PC (Computador Personal).
 Además, es necesario instalar en el ordenador los programas MATLAB (disponible en ssii.ucm.es), válido tanto en PC como On-Line y MATLAB Drive Connector
 (disponible en es.mathworks.com). Esto último proporciona acceso a MATLAB Drive, que lleva a cabo la comunicación entre la aplicación y el programa principal de
